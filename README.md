@@ -15,6 +15,6 @@ Generate Network:It takes a random vector (a random point in the latent space) a
 
 Discriminator Network:Take an image (real or synthetic) as input and predict whether the image is from the training set or created by the generator network
 
-
+![GAN Network](https://github.com/520zyzy/GAN/blob/master/Result%20Images/GAN.png)
 
 # Result
